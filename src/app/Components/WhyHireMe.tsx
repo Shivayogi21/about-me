@@ -1,5 +1,3 @@
-// components/WhyHireMe.tsx
-
 'use client';
 
 import { useEffect, useState } from 'react';
@@ -16,7 +14,8 @@ export default function WhyHireMe() {
 
   return (
     <section
-      className={`bg-gray-900 text-white py-20 px-6 text-center font-sans '
+      className={`bg-gray-900 text-white py-20 px-6 text-center font-sans transition-opacity duration-700 ${
+        visible ? 'opacity-100' : 'opacity-0'
       }`}
     >
       <div className="max-w-3xl mx-auto bg-gray-900">
