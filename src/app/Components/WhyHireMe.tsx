@@ -24,11 +24,12 @@ export default function WhyHireMe() {
           <span className="text-[#F6337C]"> Hire Me?</span>
         </h2>
         <p className="text-lg sm:text-xl text-gray-300 leading-relaxed mb-10">
-          I am a full-stack developer skilled in Java, Spring Boot, and React with real-world experience 
-          building secure, scalable applications. I’ve contributed to production-level APIs and responsive 
-          front-ends, backed by training and hands-on internships. I'm proactive, fast-learning, and ready 
-          to deliver results from day one.
-        </p>
+  I am a full-stack developer skilled in Java, Spring Boot, and React with real-world experience 
+  building secure, scalable applications. I&rsquo;ve contributed to production-level APIs and responsive 
+  front-ends, backed by training and hands-on internships. I&rsquo;m proactive, fast-learning, and ready 
+  to deliver results from day one.
+</p>
+
 
         <a
           href="/assets/images/SHIVAYOGITCV.pdf"  

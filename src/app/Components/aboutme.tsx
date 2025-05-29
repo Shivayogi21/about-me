@@ -33,16 +33,16 @@ export default function AboutMe() {
           About <span className="text-pink-500">Me</span>
         </h2>
         <p className="text-lg text-gray-300 leading-relaxed">
-          I'm <span className="font-bold text-pink-600">Shivayogi Tyapi</span>, a passionate full-stack Java developer with strong roots in backend engineering and modern frontend design.
+          I&rsquo;m <span className="font-bold text-pink-600">Shivayogi Tyapi</span>, a passionate full-stack Java developer with strong roots in backend engineering and modern frontend design.
           With hands-on experience at companies as an INTERN, like <span className="text-pink-400">RSB MedTech</span> and <span className="text-pink-400">Numetry Technologies</span>,
-          I've built high-performance REST APIs, secured scalable systems, and developed premium websites using <span className="text-white font-semibold">Spring Boot, React, and Next.js</span>.
+          I&rsquo;ve built high-performance REST APIs, secured scalable systems, and developed premium websites using <span className="text-white font-semibold">Spring Boot, React, and Next.js</span>.
         </p>
         <p className="text-lg text-gray-300 leading-relaxed">
-          I specialize in <span className="text-white font-semibold">Microservices, Docker, Spring Security, and REST APIs</span>, and I’m constantly pushing boundaries to build intuitive, responsive, and futuristic digital experiences.
+          I specialize in <span className="text-white font-semibold">Microservices, Docker, Spring Security, and REST APIs</span>, and I&rsquo;m constantly pushing boundaries to build intuitive, responsive, and futuristic digital experiences.
           I combine my engineering mindset with design-driven thinking to deliver seamless user experiences.
         </p>
         <p className="text-lg text-gray-400 italic">
-          "I don’t just write code — I engineer digital experiences that are fast, functional, and unforgettable."
+          &quot;I don&rsquo;t just write code — I engineer digital experiences that are fast, functional, and unforgettable.&quot;
         </p>
       </motion.div>
     </section>
